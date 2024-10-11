@@ -1,0 +1,17 @@
+schema_version = "1.0.0"
+
+id = "bakerdzn"
+version = "1.0.0"
+name = "Baker's Dozen"
+tagline = "Adding mixing and discrete layer selection to texture/vertex baking."
+maintainer = "Andrew Buist <andrew.buist99@outlook.com>"
+type = "add-on"
+
+website = ""
+tags = ["Mesh", "Bake", "Vertex Color"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later"
+]
